@@ -14,6 +14,9 @@ class project{
 
 	  System.out.println("sum is:" +result) ;
     System.out.println("Group assessment");
+	 public static void main(String[] args){
+	 System.out.println("Group assessment");
+
   }
 }
     
