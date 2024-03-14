@@ -12,6 +12,8 @@ class project{
 			  int result = obj.diffNumbers(num1,num2);
 			  System.out.println("Sum is :" + result);
     System.out.println("Group assessment");
+	 public static void main(String[] args){
+	 System.out.println("Group assessment");
   }
 }
     
