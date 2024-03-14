@@ -3,6 +3,8 @@ class project{
     public int Multiplication(int a, int b){
 	    int product = a*b;
 	    return product;
+	 public static void main(String[] args){
+	 System.out.println("Group assessment");
   }
   public static void main(String args[]){
 	  System.out.println("Group assessment");
